@@ -6,4 +6,4 @@ def my_each(arg)
 end
 end
 
-my_each(arg) {|arg| puts arg}
+my_each(arg) {puts arg}
