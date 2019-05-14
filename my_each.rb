@@ -5,5 +5,3 @@ def my_each(arg)
   x += 1
 end
 end
-
-my_each(arg) {puts arg}
