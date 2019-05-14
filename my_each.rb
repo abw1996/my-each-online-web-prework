@@ -4,4 +4,5 @@ def my_each(arg)
   yield(arg[x])
   x += 1
 end
+return arg
 end
